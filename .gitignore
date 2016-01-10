@@ -1,0 +1,7 @@
+target/
+.idea/
+.settings/
+.classpath
+.project
+.factorypath
+*.sqlite3
